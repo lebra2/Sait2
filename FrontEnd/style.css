@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(90deg, rgba(255, 0, 179, 0.575), rgb(255, 0, 0));
+    width: auto;
+    height: 100%;
+    opacity: 1;
+
+.header {
+
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 10px;
+  }
+
+.footer{
+
+      padding: 60px;
+      background: #3700ff;
+      position: absolute;
+      color: white;
+      font-size 10px;
+      width: 90%;
+      top: 80%;
+  }
+
+.img{
+      position: absolute;
+      top: 1%;
+      left: 1%;
+      border-radius: 10px;
+
+  }
+
+  .joon{
+
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 100%;
+    left: 100%;
+
+  }
